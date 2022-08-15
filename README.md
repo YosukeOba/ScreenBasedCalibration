@@ -1,0 +1,3 @@
+# ScreenBasedCalibration
+Tobii proでキャリブレーションします
+キャリブレーションの注視点をいじって遊べる
